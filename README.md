@@ -1,4 +1,4 @@
-<a href="https://liberapay.com/lens0021/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+<a href="https://liberapay.com/lens0021/donate"><img alt="Donate using Liberapay" src="https://img.shields.io/liberapay/receives/lens0021.svg?logo=liberapay"></a>
 
 <!--
 **lens0021/lens0021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
