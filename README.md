@@ -1,4 +1,3 @@
-<a href="https://www.buymeacoffee.com/23mFEpr"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee"></a>
 <a href="https://liberapay.com/lens0021/donate"><img alt="Donate using Liberapay" src="https://img.shields.io/liberapay/receives/lens0021.svg?logo=liberapay"></a>
 
 <!--
