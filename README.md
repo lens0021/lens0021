@@ -1,5 +1,7 @@
 <a href="https://liberapay.com/lens0021/donate"><img alt="Donate using Liberapay" src="https://img.shields.io/liberapay/receives/lens0021.svg?logo=liberapay"></a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lens0021&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)</br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lens0021&show_icons=true)
 <!--
 **lens0021/lens0021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
