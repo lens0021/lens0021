@@ -4,8 +4,6 @@
 [![Wikimedia Gerrit](https://badgen.net/badge/wikimedia%20gerrit/lens0021?icon=git)](https://gerrit.wikimedia.org/r/q/owner:lorentz0021%2540gmail.com)
 [![Wikimedia GitLab](https://badgen.net/badge/wikimedia%20gitlab/lens0021?icon=git)](https://gitlab.wikimedia.org/lens0021)
 
-----
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lens0021&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)</br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lens0021&show_icons=true)
 <!--
