@@ -1,6 +1,6 @@
 [![Donate using Liberapay](https://img.shields.io/liberapay/receives/lens0021.svg?logo=liberapay)](https://liberapay.com/lens0021/donate)
 <br>
-[![GitLab](https://badgen.net/badge/gitlab/lens0021?icon=gitlab)](https://gitlab.com/lens0021)
+[![Codeberg](https://badgen.net/badge/codeberg/lens0021)](https://codeberg.org/lens0021)
 [![Wikimedia Gerrit](https://badgen.net/badge/wikimedia%20gerrit/lens0021?icon=git)](https://gerrit.wikimedia.org/r/q/owner:lorentz0021%2540gmail.com)
 [![Wikimedia GitLab](https://badgen.net/badge/wikimedia%20gitlab/lens0021?icon=git)](https://gitlab.wikimedia.org/lens0021)
 
